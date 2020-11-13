@@ -1,0 +1,20 @@
+h1{
+    text-align: center;
+    color:salmon;
+    background-color:lightskyblue
+}
+h2{
+    text-align: center;
+    color:salmon;
+    background-color: aquamarine
+}
+tr{
+    background-color: dodgerblue
+}
+ol{
+    background-image:url(../images/back7.jpg);
+
+}
+body{
+    background-image: url(../images/back3.jpg)
+}
